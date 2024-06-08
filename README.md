@@ -9,8 +9,6 @@ Screenshots
 Technologies Used
 Contributing
 License
-
-
 Features
 Player vs Player chess gameplay.
 User authentication and profiles.
@@ -29,8 +27,8 @@ Node.js (for front-end assets)
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/rlichiere/django-chess.git
-cd django-chess
+git clone https://github.com/mohitrathore7/CHESS_REBALANCE_TECHNOLOGY.git
+cd CHESS_REBALANCE_TECHNOLOGY
 Create a Virtual Environment
 bash
 Copy code
@@ -76,8 +74,11 @@ Admin Panel
 Access the admin panel at http://127.0.0.1:8000/admin to manage users, games, and other administrative tasks.
 
 
-Technologies Used
 
+
+Game interface where players can play chess.
+
+Technologies Used
 Backend: Django, Django Channels
 Frontend: HTML, CSS, JavaScript
 Database: SQLite (default, can be configured to use other databases)
